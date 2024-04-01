@@ -2,20 +2,20 @@
   "thoughts": [
     {
       "id": "1",
-      "content": "Que bom que vc veio",
-      "author": "Wes",
+      "content": "Software Developer",
+      "author": "Wesley Rebouças",
       "model": "modelo1"
     },
     {
       "id": "2",
-      "content": "Estudando Angular uh lá lá",
-      "author": "Wes Dev",
+      "content": "Computing Engineer ",
+      "author": "Wesley Rebouças",
       "model": "modelo1"
     },
     {
       "id": "3",
-      "content": "Angular é o melhor'",
-      "author": "Wes Dev Alura",
+      "content": "Problem Solver",
+      "author": "Wesley Rebouças",
       "model": "modelo3"
     }
   ]

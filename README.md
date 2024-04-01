@@ -1,6 +1,6 @@
 
 <div >
-  <img src="/assets/images/MomotecaBanner.png" width="1000px">
+  <img src="src/assets/images/MomotecaBanner.png" width="1000px">
 </div>
 
 <p align="center">
@@ -27,7 +27,7 @@ A Memoteca é um projeto concebido pela  <a href="https://www.alura.com.br/"> **
 ## Layout
 
 <div style="display: flex; flex-direction: 'row'; align-items: 'center';">
-	<img src="assets/screenshot/screenshot-home.png" width="325px">	
+	<img src="src/assets/images/screenshot-home.png" width="325px">	
 </div>
 
 ## Technologies

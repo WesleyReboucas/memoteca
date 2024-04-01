@@ -1,0 +1,22 @@
+{
+  "thoughts": [
+    {
+      "id": "1",
+      "content": "Que bom que vc veio",
+      "author": "Wes",
+      "model": "modelo1"
+    },
+    {
+      "id": "2",
+      "content": "Estudando Angular uh lá lá",
+      "author": "Wes Dev",
+      "model": "modelo1"
+    },
+    {
+      "id": "3",
+      "content": "Angular é o melhor'",
+      "author": "Wes Dev Alura",
+      "model": "modelo3"
+    }
+  ]
+}

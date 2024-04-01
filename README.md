@@ -22,7 +22,7 @@
 
 ## Project
 
-A Memoteca é um projeto concebido pela  <a href="https://www.alura.com.br/"> **Alura** </a> com o objetivo de desenvolver uma página wem utilizando Angular que seja uma biblioteca de pensamentos e reflexões para nunca esquecer.
+A Memoteca é um projeto concebido pela  <a href="https://www.alura.com.br/"> **Alura** </a> com o objetivo de desenvolver uma página web utilizando Angular que seja uma biblioteca de pensamentos e reflexões para nunca esquecer.
 
 ## Layout
 

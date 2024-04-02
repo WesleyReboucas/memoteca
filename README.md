@@ -39,7 +39,13 @@ Assuntos abordados:
 ## Layout
 
 <div style="display: flex; flex-direction: 'row'; align-items: 'center';">
-	<img src="src/assets/images/screenshot-home.png" width="325px">	
+	<img src="src/assets/images/screenshot-home.png" width="1000px">
+  <img src="src/assets/images/screenshot-search.png" width="1000px">
+  <img src="src/assets/images/screenshot-favorites.png" width="1000px">
+  <img src="src/assets/images/screenshot-pagination.png" width="1000px">
+  <img src="src/assets/images/screenshot-add.png" width="1000px">
+  <img src="src/assets/images/screenshot-edit.png" width="1000px">
+  <img src="src/assets/images/screenshot-delete.png" width="1000px">
 </div>
 
 ## Technologies

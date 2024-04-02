@@ -12,6 +12,7 @@ import { ThoughtComponent } from './components/thoughts/thought/thought.componen
 import { HttpClientModule } from '@angular/common/http';
 import { DeleteThoughtComponent } from './components/thoughts/delete-thought/delete-thought.component';
 import { EditThoughtComponent } from './components/thoughts/edit-thought/edit-thought.component';
+import { ButtonShowMoreItensComponent } from './components/thoughts/thoughts-list/button-show-more-itens/button-show-more-itens.component';
 
 @NgModule({
   declarations: [
@@ -23,6 +24,7 @@ import { EditThoughtComponent } from './components/thoughts/edit-thought/edit-th
     ThoughtComponent,
     DeleteThoughtComponent,
     EditThoughtComponent,
+    ButtonShowMoreItensComponent,
   ],
   imports: [
     BrowserModule,

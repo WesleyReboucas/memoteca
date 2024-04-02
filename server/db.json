@@ -2,93 +2,123 @@
   "thoughts": [
     {
       "id": "1",
-      "content": "Software Developer",
-      "author": "Wesley Rebouças",
+      "content": "Na volta a gente compra",
+      "author": "Mãe",
       "model": "modelo1"
     },
     {
       "id": "2",
-      "content": "Computing Engineer ",
-      "author": "Wesley Rebouças",
-      "model": "modelo1"
+      "content": "Deixa disso, amanhã é outro dia",
+      "author": "Vó",
+      "model": "modelo2"
     },
     {
       "id": "3",
-      "content": "Problem Solver",
-      "author": "Wesley Rebouças",
+      "content": "É melhor prevenir do que remediar",
+      "author": "Tia",
       "model": "modelo3"
     },
     {
       "id": "4",
-      "content": "Computing Engineer ",
-      "author": "Wesley Rebouças",
-      "model": "modelo1"
+      "content": "Nunca diga nunca",
+      "author": "Primo",
+      "model": "modelo3"
     },
     {
       "id": "5",
-      "content": "Problem Solver",
-      "author": "Wesley Rebouças",
+      "content": "Quem não arrisca, não petisca",
+      "author": "Amigo",
       "model": "modelo3"
     },
     {
       "id": "6",
-      "content": "Computing Engineer ",
-      "author": "Wesley Rebouças",
-      "model": "modelo1"
+      "content": "Em terra de cego, quem tem um olho é rei",
+      "author": "Vizinho",
+      "model": "modelo2"
     },
     {
       "id": "7",
-      "content": "Problem Solver",
-      "author": "Wesley Rebouças",
-      "model": "modelo3"
+      "content": "Quem não tem cão, caça com gato",
+      "author": "Colega",
+      "model": "modelo2"
     },
     {
       "id": "8",
-      "content": "Computing Engineer ",
-      "author": "Wesley Rebouças",
-      "model": "modelo1"
+      "content": "A pressa é inimiga da perfeição",
+      "author": "Professor",
+      "model": "modelo3"
     },
     {
       "id": "9",
-      "content": "Problem Solver",
-      "author": "Wesley Rebouças",
+      "content": "Antes tarde do que nunca",
+      "author": "Chefe",
       "model": "modelo3"
     },
     {
       "id": "10",
-      "content": "Problem Solver",
-      "author": "Wesley Rebouças",
-      "model": "modelo3"
+      "content": "Em briga de marido e mulher, ninguém mete a colher",
+      "author": "Avô",
+      "model": "modelo1"
     },
     {
       "id": "11",
-      "content": "Computing Engineer ",
-      "author": "Wesley Rebouças",
+      "content": "Cada macaco no seu galho",
+      "author": "Irmã",
       "model": "modelo1"
     },
     {
       "id": "12",
-      "content": "Problem Solver",
-      "author": "Wesley Rebouças",
-      "model": "modelo3"
+      "content": "Falar é fácil, fazer é que são elas",
+      "author": "Prima",
+      "model": "modelo1"
     },
     {
       "id": "13",
-      "content": "Problem Solver",
-      "author": "Wesley Rebouças",
-      "model": "modelo3"
+      "content": "Em boca fechada não entra mosca",
+      "author": "Cunhado",
+      "model": "modelo1"
     },
     {
       "id": "14",
-      "content": "Computing Engineer ",
-      "author": "Wesley Rebouças",
+      "content": "Água mole em pedra dura, tanto bate até que fura",
+      "author": "Tio",
       "model": "modelo1"
     },
     {
       "id": "15",
-      "content": "Problem Solver",
-      "author": "Wesley Rebouças",
-      "model": "modelo3"
+      "content": "De grão em grão a galinha enche o papo",
+      "author": "Vizinha",
+      "model": "modelo1"
+    },
+    {
+      "id": "16",
+      "content": "Quem semeia vento, colhe tempestade",
+      "author": "Conhecido",
+      "model": "modelo1"
+    },
+    {
+      "id": "17",
+      "content": "Mais vale um pássaro na mão do que dois voando",
+      "author": "Amiga",
+      "model": "modelo1"
+    },
+    {
+      "id": "18",
+      "content": "A união faz a força",
+      "author": "Madrinha",
+      "model": "modelo1"
+    },
+    {
+      "id": "19",
+      "content": "O que os olhos não veem, o coração não sente",
+      "author": "Primo distante",
+      "model": "modelo1"
+    },
+    {
+      "id": "20",
+      "content": "Caiu na rede, é peixe",
+      "author": "Amigo secreto",
+      "model": "modelo2"
     }
   ]
 }

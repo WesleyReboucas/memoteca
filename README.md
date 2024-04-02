@@ -24,6 +24,18 @@
 
 A Memoteca é um projeto concebido pela  <a href="https://www.alura.com.br/"> **Alura** </a> com o objetivo de desenvolver uma página web utilizando Angular que seja uma biblioteca de pensamentos e reflexões para nunca esquecer.
 
+Assuntos abordados:
+
+- [x] Estrutura de um componente em Angular
+- [x] Property binding, interpolação, event binding e two-way data binding
+- [x] Principais diretivas do Angular
+- [x] Navegação dinâmica entre componentes através das rotas
+- [x] Injeção de dependências
+- [x] Requisições HTTP, CRUD e HttpParams
+- [x] Formulários reativos e validações
+- [x] Funcionalidade de busca
+- [x] Paginação aos dados
+
 ## Layout
 
 <div style="display: flex; flex-direction: 'row'; align-items: 'center';">

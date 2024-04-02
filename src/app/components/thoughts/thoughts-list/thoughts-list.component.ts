@@ -15,6 +15,7 @@ export class ThoughtsListComponent {
   filter: string = '';
   favorites: boolean = false;
   favoriteList: Thought[] = [];
+  title: string = 'Meu Mural';
 
   constructor(private service: ThoughtService, private router: Router) {}
 
@@ -44,6 +45,7 @@ export class ThoughtsListComponent {
   }
 
   listFavorites() {
+    this.title = 'Meus Favoritos';
     this.isMoreThoughts = true;
     this.favorites = true;
     this.currentPage = 1;

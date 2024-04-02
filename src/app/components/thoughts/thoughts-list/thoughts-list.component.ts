@@ -10,12 +10,22 @@ import { ThoughtService } from '../thought.service';
 export class ThoughtsListComponent {
   thoughtList: Thought[] = [];
   currentPage = 1;
+  isMoreThoughts: boolean = true;
 
   constructor(private service: ThoughtService) {}
 
   ngOnInit(): void {
     this.service.list(this.currentPage).subscribe((thoughtListData) => {
       this.thoughtList = thoughtListData;
+    });
+  }
+
+  loadMoreThoughts() {
+    this.service.list(++this.currentPage).subscribe((thoughtList) => {
+      this.thoughtList.push(...thoughtList);
+      if (!thoughtList.length) {
+        this.isMoreThoughts = false;
+      }
     });
   }
 }

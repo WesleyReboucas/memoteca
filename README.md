@@ -51,7 +51,7 @@ Assuntos abordados:
 ## Technologies
 
 - [Angular](https://angular.io/)
-
+- [json-server](https://github.com/typicode/json-server)
   
 ## Installation
 

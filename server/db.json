@@ -4,121 +4,141 @@
       "id": "1",
       "content": "Na volta a gente compra",
       "author": "Mãe",
-      "model": "modelo1"
+      "model": "modelo1",
+      "favorite": true
     },
     {
       "id": "2",
       "content": "Deixa disso, amanhã é outro dia",
       "author": "Vó",
-      "model": "modelo2"
+      "model": "modelo2",
+      "favorite": false
     },
     {
       "id": "3",
       "content": "É melhor prevenir do que remediar",
       "author": "Tia",
-      "model": "modelo3"
+      "model": "modelo3",
+      "favorite": false
     },
     {
       "id": "4",
       "content": "Nunca diga nunca",
       "author": "Primo",
-      "model": "modelo3"
+      "model": "modelo3",
+      "favorite": true
     },
     {
       "id": "5",
       "content": "Quem não arrisca, não petisca",
       "author": "Amigo",
-      "model": "modelo3"
+      "model": "modelo3",
+      "favorite": false
     },
     {
       "id": "6",
       "content": "Em terra de cego, quem tem um olho é rei",
       "author": "Vizinho",
-      "model": "modelo2"
+      "model": "modelo2",
+      "favorite": false
     },
     {
       "id": "7",
       "content": "Quem não tem cão, caça com gato",
       "author": "Colega",
-      "model": "modelo2"
+      "model": "modelo2",
+      "favorite": false
     },
     {
       "id": "8",
       "content": "A pressa é inimiga da perfeição",
       "author": "Professor",
-      "model": "modelo3"
+      "model": "modelo3",
+      "favorite": false
     },
     {
       "id": "9",
       "content": "Antes tarde do que nunca",
       "author": "Chefe",
-      "model": "modelo3"
+      "model": "modelo3",
+      "favorite": true
     },
     {
       "id": "10",
       "content": "Em briga de marido e mulher, ninguém mete a colher",
       "author": "Avô",
-      "model": "modelo1"
+      "model": "modelo1",
+      "favorite": false
     },
     {
       "id": "11",
       "content": "Cada macaco no seu galho",
       "author": "Irmã",
-      "model": "modelo1"
+      "model": "modelo1",
+      "favorite": false
     },
     {
       "id": "12",
       "content": "Falar é fácil, fazer é que são elas",
       "author": "Prima",
-      "model": "modelo1"
+      "model": "modelo1",
+      "favorite": true
     },
     {
       "id": "13",
       "content": "Em boca fechada não entra mosca",
       "author": "Cunhado",
-      "model": "modelo1"
+      "model": "modelo1",
+      "favorite": false
     },
     {
       "id": "14",
       "content": "Água mole em pedra dura, tanto bate até que fura",
       "author": "Tio",
-      "model": "modelo1"
+      "model": "modelo1",
+      "favorite": false
     },
     {
       "id": "15",
       "content": "De grão em grão a galinha enche o papo",
       "author": "Vizinha",
-      "model": "modelo1"
+      "model": "modelo1",
+      "favorite": true
     },
     {
       "id": "16",
       "content": "Quem semeia vento, colhe tempestade",
       "author": "Conhecido",
-      "model": "modelo1"
+      "model": "modelo1",
+      "favorite": false
     },
     {
       "id": "17",
       "content": "Mais vale um pássaro na mão do que dois voando",
       "author": "Amiga",
-      "model": "modelo1"
+      "model": "modelo1",
+      "favorite": false
     },
     {
       "id": "18",
       "content": "A união faz a força",
       "author": "Madrinha",
-      "model": "modelo1"
+      "model": "modelo1",
+      "favorite": false
     },
     {
       "id": "19",
       "content": "O que os olhos não veem, o coração não sente",
       "author": "Primo distante",
-      "model": "modelo1"
+      "model": "modelo1",
+      "favorite": true
     },
     {
       "id": "20",
       "content": "Caiu na rede, é peixe",
       "author": "Amigo secreto",
-      "model": "modelo2"
+      "model": "modelo2",
+      "favorite": false
     }
   ]
 }

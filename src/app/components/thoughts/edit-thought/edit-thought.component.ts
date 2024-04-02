@@ -39,6 +39,7 @@ export class EditThoughtComponent {
           ]),
         ],
         model: [thought.model],
+        favorite: [thought.favorite],
       });
     });
   }

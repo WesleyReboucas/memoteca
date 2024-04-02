@@ -22,7 +22,7 @@
   </header>
   <div class="mural" *ngIf="thoughtList.length > 0; else withoutThoughts">
     <div *ngFor="let thought of thoughtList">
-      <app-thought [thoughts]="thought"></app-thought>
+      <app-thought [thought]="thought"></app-thought>
     </div>
   </div>
 </section>

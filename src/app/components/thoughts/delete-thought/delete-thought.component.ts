@@ -10,10 +10,11 @@ import { ActivatedRoute, Router } from '@angular/router';
 })
 export class DeleteThoughtComponent {
   thought: Thought = {
-    id: 0,
+    id: '',
     content: '',
     author: '',
     model: '',
+    favorite: false,
   };
 
   constructor(

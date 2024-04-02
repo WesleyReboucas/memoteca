@@ -1,6 +1,7 @@
 export interface Thought {
-  id?: number;
+  id?: string;
   content: string;
   author: string;
   model: string;
+  favorite: boolean;
 }

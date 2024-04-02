@@ -35,6 +35,7 @@ export class CreateThoughtComponent {
         ]),
       ],
       model: ['modelo1'],
+      favorite: false,
     });
   }
 

@@ -11,18 +11,21 @@
       />
       <img src="/assets/images/lupa.png" alt="lupa azul" />
     </div>
-    <h2 class="ff-inter">Meu Mural</h2>
-    <button
-      routerLink="/criarPensamento"
-      class="botao"
-      routerLink="/create-thought"
-    >
-      Adicionar pensamento
-    </button>
+    <h2 class="ff-inter" (click)="reloadComponent()">Meu Mural</h2>
+    <div class="botoes">
+      <button class="botao" (click)="reloadComponent()">Meu Mural</button>
+      <button class="botao" (click)="listFavorites()">Favoritos</button>
+      <button class="botao" routerLink="/create-thought">
+        Adicionar pensamento
+      </button>
+    </div>
   </header>
   <div class="mural" *ngIf="thoughtList.length > 0; else withoutThoughts">
     <div *ngFor="let thought of thoughtList">
-      <app-thought [thought]="thought"></app-thought>
+      <app-thought
+        [thought]="thought"
+        [favoriteList]="thoughtList"
+      ></app-thought>
     </div>
   </div>
 </section>

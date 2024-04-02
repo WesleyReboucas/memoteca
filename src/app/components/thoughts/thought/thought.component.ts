@@ -15,11 +15,14 @@ export class ThoughtComponent {
     model: 'modelo1',
     favorite: false,
   };
+  @Input() favoriteList: Thought[] = [];
 
   constructor(private service: ThoughtService) {}
 
   updateFavoriteIcon() {
-    this.service.changeFavorite(this.thought).subscribe();
+    this.service.changeFavorite(this.thought).subscribe(() => {
+      this.favoriteList.splice(this.favoriteList.indexOf(this.thought), 1);
+    });
   }
 
   changeFavoriteIcon(): string {

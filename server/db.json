@@ -12,7 +12,7 @@
       "content": "Deixa disso, amanhã é outro dia",
       "author": "Vó",
       "model": "modelo2",
-      "favorite": false
+      "favorite": true
     },
     {
       "id": "3",
@@ -26,7 +26,7 @@
       "content": "Nunca diga nunca",
       "author": "Primo",
       "model": "modelo3",
-      "favorite": true
+      "favorite": false
     },
     {
       "id": "5",
@@ -40,7 +40,7 @@
       "content": "Em terra de cego, quem tem um olho é rei",
       "author": "Vizinho",
       "model": "modelo2",
-      "favorite": false
+      "favorite": true
     },
     {
       "id": "7",
@@ -61,7 +61,7 @@
       "content": "Antes tarde do que nunca",
       "author": "Chefe",
       "model": "modelo3",
-      "favorite": true
+      "favorite": false
     },
     {
       "id": "10",
@@ -82,7 +82,7 @@
       "content": "Falar é fácil, fazer é que são elas",
       "author": "Prima",
       "model": "modelo1",
-      "favorite": true
+      "favorite": false
     },
     {
       "id": "13",
